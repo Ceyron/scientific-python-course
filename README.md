@@ -1,8 +1,8 @@
-# An Introductory to Scientific Computing & Machine Learning in Python
+# An Introductory Course to Scientific Computing & Machine Learning in Python
 
 This repository contains all the files (slides, source code & data) used in the first two days of the [Scientific Python Course at TU Braunschweig](https://musenzentrum.de/workshop2021/).
 
-The target audience is someone with a bit of prior programming knowledge, but in a different language like MATLAB. It is helpful to understand some linear algebra to follow the examples in the sections on Machine Learning & Deep Learning.
+The target audience is someone with a bit of prior programming knowledge, but in a different language like MATLAB. It is helpful to understand some linear algebra in order to follow the examples in the sections on Machine Learning & Deep Learning.
 
 The course is supposed to be interactive for people to code along the instructor.
 
