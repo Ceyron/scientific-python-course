@@ -2,6 +2,8 @@
 
 This repository contains all the files (slides, source code & data) used in the first two days of the [Scientific Python Course at TU Braunschweig](https://musenzentrum.de/workshop2021/).
 
+Here you can find the material of the [3rd day](https://github.com/musen-rse/examples_python) which is on Research Software Engineering in Python and also covers Object-Oriented Aspects in Python that this course does not contain.
+
 The target audience is someone with a bit of prior programming knowledge, but in a different language like MATLAB. It is helpful to understand some linear algebra in order to follow the examples in the sections on Machine Learning & Deep Learning.
 
 The course is supposed to be interactive for people to code along the instructor.
